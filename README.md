@@ -13,5 +13,8 @@ Na ferramenta do GEMs, do Gemni, criamos um novo agente, com instruções para q
 Cada interação transforma a imagem da pessoa, trazendo características como macacão de pilotagem, ou a pessoa ao lado de um carro de corrida,
 ou com capacete.
 
+Exemplo de resultado no link: https://ibb.co/d0sQ8vd7
+
+
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
